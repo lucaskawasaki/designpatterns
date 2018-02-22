@@ -1,0 +1,1 @@
+Nesse capitulo foi abordado sobre o padrão Strategy
