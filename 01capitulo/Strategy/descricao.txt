@@ -1,1 +1,1 @@
-Nesse capitulo foi abordado sobre o padrão Strategy
+Nesse capitulo foi abordado sobre o padrão Strategy. Foram criados dois atributos delegando a responsabilidade de voar e grasnar
