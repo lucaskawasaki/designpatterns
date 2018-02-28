@@ -1,0 +1,11 @@
+package weather;
+
+public class WeatherData implements Subject {
+
+	@Override
+	public void registerObserver(Observer o) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
