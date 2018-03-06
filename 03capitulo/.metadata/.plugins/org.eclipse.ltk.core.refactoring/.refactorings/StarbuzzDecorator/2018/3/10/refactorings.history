@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;model.Exrpresso&apos; to &apos;Expresso&apos;&#x0D;&#x0A;- Original project: &apos;StarbuzzDecorator&apos;&#x0D;&#x0A;- Original element: &apos;model.Exrpresso&apos;&#x0D;&#x0A;- Renamed element: &apos;model.Expresso&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Exrpresso&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;model{Exrpresso.java[Exrpresso" matchStrategy="1" name="Expresso" qualified="false" references="true" similarDeclarations="false" stamp="1520366171870" textual="false" version="1.0"/>
+</session>
