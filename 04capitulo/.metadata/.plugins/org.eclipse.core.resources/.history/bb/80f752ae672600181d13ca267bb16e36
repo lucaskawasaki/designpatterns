@@ -1,0 +1,8 @@
+package model.pizza.chicago;
+
+import model.pizza.Pizza;
+
+public class ChicagoStyleCheesePizza extends Pizza {
+
+	
+}

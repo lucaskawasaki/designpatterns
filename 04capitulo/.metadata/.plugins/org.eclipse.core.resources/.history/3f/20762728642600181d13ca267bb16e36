@@ -1,0 +1,5 @@
+package model.pizza;
+
+public class NYStyleCheesePizza extends Pizza {
+
+}
