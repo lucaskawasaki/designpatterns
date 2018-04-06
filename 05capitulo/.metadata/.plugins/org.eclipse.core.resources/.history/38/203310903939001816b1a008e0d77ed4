@@ -1,0 +1,25 @@
+package garagedoor;
+
+public class GarageDoor {
+	
+	public void up() {
+		System.out.println("Abrir portão");
+	}
+
+	public void down() {
+		System.out.println("Fecha portão");
+	}
+	
+	public void stop() {
+
+	}
+
+	public void lightOn() {
+
+	}
+	
+	public void lightOff() {
+
+	}
+
+}

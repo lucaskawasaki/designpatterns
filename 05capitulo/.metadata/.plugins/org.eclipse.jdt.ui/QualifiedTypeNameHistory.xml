@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="garagedoor.SimpleRemoteControl"/>
+<fullyQualifiedTypeName name="garagedoor.Light"/>
+<fullyQualifiedTypeName name="garagedoor.LightOnCommand"/>
+<fullyQualifiedTypeName name="garagedoor.GarageDoor"/>
+<fullyQualifiedTypeName name="garagedoor.GarageDoorCommand"/>
+</qualifiedTypeNameHistroy>

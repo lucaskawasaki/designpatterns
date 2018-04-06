@@ -1,0 +1,10 @@
+package garagedoor;
+
+public class SimpleRemoteControl {
+	
+	private Command slot;
+	
+	public SimpleRemoteControl() {
+	}
+
+}
