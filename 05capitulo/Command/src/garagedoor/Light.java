@@ -1,10 +1,19 @@
 package garagedoor;
 
-public class Light {
+public class Light extends Vendedor{
+	
+	public Light(String name) {
+		super.setNome(name);
+	}
+	
+	@Override
+	public String onHook() {
+		return "Luz ligada!!!";
+	}
 
-	public void on() {
-		System.out.println("Luz ligada!!!");
-		
+	@Override
+	public String offHook() {
+		return "Luz desligada!!!";
 	}
 
 }
